@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rayirth Misar</h1>
+<h1 align="center">Hi 👋, I'm Rayirth Misra</h1>
 <h3 align="center">I am deeply passionate about computer science, especially its low-level and foundational aspects. My interests include computer architecture, embedded systems, and systems-level programming. I’m fascinated by how computers work internally, from hardware to the most fundamental layers of software. My goal is to become a computer scientist I would personally look up to, someone whose understanding of computing is rooted in depth, precision, and curiosity. I aim to build a career where I can continuously explore how machines truly work and contribute to advancing that understanding.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayirth556" alt="rayirth556" /></a> </p>
