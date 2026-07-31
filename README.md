@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayirth556" alt="rayirth556" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded Systems, starting from basic hardware microcontrollers**
+- I’m currently learning **Embedded Systems, starting from basic hardware microcontrollers**
 
-- 📝 I regularly write articles on [https://medium.com/@rayirthmisra25](https://medium.com/@rayirthmisra25)
+- I regularly write articles on [https://medium.com/@rayirthmisra25](https://medium.com/@rayirthmisra25)
 
-- 📫 How to reach me **rayirthmisra25@gmail.com**
+- How to reach me **rayirthmisra25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rayirth-misra-cs/](https://www.linkedin.com/in/rayirth-misra-cs/)
+- Know about my experiences [https://www.linkedin.com/in/rayirth-misra-cs/](https://www.linkedin.com/in/rayirth-misra-cs/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
